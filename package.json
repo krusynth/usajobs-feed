@@ -8,6 +8,9 @@
   },
   "author": "Bill Hunt <hello@billhunt.email>",
   "license": "MIT",
+  "bin": {
+    "execute": "index.js"
+  },
   "dependencies": {
     "dotenv": "^16.0.3",
     "js-yaml": "^4.1.0"
