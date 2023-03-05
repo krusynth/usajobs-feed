@@ -1,0 +1,73 @@
+{
+  "AG": {
+    "name": "Department of Agriculture"
+  },
+  "CM": {
+    "name": "Department of Commerce"
+  },
+  "DL": {
+    "name": "Department of Labor"
+  },
+  "ED": {
+    "name": "Department of Education"
+  },
+  "DN": {
+    "name": "Department of Energy"
+  },
+  "GS": {
+    "name": "General Services Administration"
+  },
+  "HE": {
+    "name": "Department of Health And Human Services"
+  },
+  "HSCA": {
+    "name": "Cybersecurity and Infrastructure Security Agency",
+    "parentCode": "HS"
+  },
+  "HSCB": {
+    "name": "Federal Emergency Management Agency",
+    "parentCode": "HS"
+  },
+  "HU": {
+    "name": "Department of Housing and Urban Development"
+  },
+  "IN": {
+    "name": "Department of the Interior"
+  },
+  "NN": {
+    "name": "National Aeronautics and Space Administration"
+  },
+  "ST": {
+    "name": "Department of State"
+  },
+  "TD": {
+    "name": "Department of Transportation"
+  },
+  "TR": {
+    "name": "Department of the Treasury"
+  },
+  "VA": {
+    "name": "Department of Veterans Affairs"
+  },
+  "EOP": {
+    "name": "Executive Office of the President"
+  },
+  "JL": {
+    "name": "Judicial Branch"
+  },
+  "LL": {
+    "name": "Legislative Branch"
+  },
+  "AH": {
+    "name": "National Foundation on the Arts and the Humanities"
+  },
+  "WU00": {
+    "name": "Southwest Border Regional Commission"
+  },
+  "ZZ": {
+    "name": "Non-Federal Civilian Customers"
+  },
+  "OT": {
+    "name": "Other Agencies and Independent Organizations"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jobfinder",
+  "version": "1.0.0",
+  "description": "USAJobs API interface to search for matching roles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Hunt <hello@billhunt.email>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "js-yaml": "^4.1.0"
+  }
+}
