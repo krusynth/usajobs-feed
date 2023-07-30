@@ -5,11 +5,11 @@ require('dotenv').config({path: path.join(path.dirname(__filename), '.env')})
 
 const Main = require('./lib/main.js');
 
-let main = new Main();
+const main = new Main();
 main.getJobs()
 .then(jobs => {
-  main.compareJobs(jobs);
-  main.writeJobs(jobs);
+  const newJobs = main.compareJobs(jobs);
+  main.writeJobs(newJobs);
 
   console.log('done');
   // console.log(data['SearchResult']['SearchResultItems']);

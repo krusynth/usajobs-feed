@@ -1,6 +1,6 @@
 {
   "name": "jobfinder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "USAJobs API interface to search for matching roles",
   "main": "index.js",
   "scripts": {
