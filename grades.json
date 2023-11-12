@@ -1,0 +1,633 @@
+{
+  "GS": {
+    "name": "General Schedule",
+    "url": "https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule/",
+    "special": false,
+    "ranges": {
+      "1": {
+        "low": 20999,
+        "high": 26273
+      },
+      "2": {
+        "low": 23612,
+        "high": 29716
+      },
+      "3": {
+        "low": 25764,
+        "high": 33495
+      },
+      "4": {
+        "low": 28921,
+        "high": 37597
+      },
+      "5": {
+        "low": 32357,
+        "high": 42068
+      },
+      "6": {
+        "low": 36070,
+        "high": 46888
+      },
+      "7": {
+        "low": 40082,
+        "high": 52106
+      },
+      "8": {
+        "low": 44389,
+        "high": 57709
+      },
+      "9": {
+        "low": 49028,
+        "high": 63734
+      },
+      "10": {
+        "low": 53990,
+        "high": 70190
+      },
+      "11": {
+        "low": 59319,
+        "high": 77112
+      },
+      "12": {
+        "low": 71099,
+        "high": 92429
+      },
+      "13": {
+        "low": 84546,
+        "high": 109908
+      },
+      "14": {
+        "low": 99908,
+        "high": 129878
+      },
+      "15": {
+        "low": 117518,
+        "high": 152771
+      }
+    }
+  },
+  "OR": {
+    "name": "Office of Financial Research",
+    "url": "https://www.financialresearch.gov/compensation-and-benefits/",
+    "special": true,
+    "ranges": {
+      "11": {
+        "equiv": "GS 1",
+        "low": 27312,
+        "high": 38361
+      },
+      "12": {
+        "equiv": "GS 2",
+        "low": 30043,
+        "high": 42197
+      },
+      "21": {
+        "equiv": "GS 3",
+        "low": 33340,
+        "high": 51557
+      },
+      "22": {
+        "equiv": "GS 4",
+        "low": 36672,
+        "high": 56714
+      },
+      "31": {
+        "equiv": "GS 5",
+        "low": 45765,
+        "high": 64359
+      },
+      "32": {
+        "equiv": "GS 6",
+        "low": 50342,
+        "high": 70795
+      },
+      "33": {
+        "equiv": "GS 7",
+        "low": 55376,
+        "high": 77874
+      },
+      "41": {
+        "equiv": "GS 8",
+        "low": 56960,
+        "high": 79815
+      },
+      "42": {
+        "equiv": "GS 9",
+        "low": 65505,
+        "high": 91787
+      },
+      "43": {
+        "equiv": "GS 10",
+        "low": 75331,
+        "high": 105555
+      },
+      "51": {
+        "equiv": "GS 11",
+        "low": 79229,
+        "high": 111536
+      },
+      "52": {
+        "equiv": "GS 12",
+        "low": 91111,
+        "high": 128266
+      },
+      "53": {
+        "equiv": "GS 13",
+        "low": 104780,
+        "high": 147507
+      },
+      "60": {
+        "equiv": "GS 14",
+        "low": 120495,
+        "high": 190196
+      },
+      "70": {
+        "equiv": "GS 15",
+        "low": 138570,
+        "high": 244941
+      },
+      "80": {
+        "equiv": "SES",
+        "low": 167350,
+        "high": 303400
+      }
+    }
+  },
+  "SK": {
+    "name": "Securities and Exchange Commission",
+    "url": "https://www.sec.gov/about/careers/sec-compensation",
+    "special": true,
+    "ranges": {
+      "1": {
+        "equiv": "GS 1",
+        "low": 22993,
+        "high": 33672
+      },
+      "2": {
+        "equiv": "GS 2",
+        "low": 25855,
+        "high": 37863
+      },
+      "3": {
+        "equiv": "GS 3",
+        "low": 28208,
+        "high": 41309
+      },
+      "4": {
+        "equiv": "GS 4",
+        "low": 31664,
+        "high": 46364
+      },
+      "5": {
+        "equiv": "GS 5",
+        "low": 35430,
+        "high": 54201
+      },
+      "6": {
+        "equiv": "GS 6",
+        "low": 39492,
+        "high": 60412
+      },
+      "7": {
+        "equiv": "GS 7",
+        "low": 43888,
+        "high": 68123
+      },
+      "8": {
+        "equiv": "GS 8",
+        "low": 48599,
+        "high": 75442
+      },
+      "9": {
+        "equiv": "GS 9",
+        "low": 53681,
+        "high": 84549
+      },
+      "10": {
+        "equiv": "GS 10",
+        "low": 59117,
+        "high": 93110
+      },
+      "11": {
+        "equiv": "GS 11",
+        "low": 64952,
+        "high": 110039
+      },
+      "12": {
+        "equiv": "GS 12",
+        "low": 77844,
+        "high": 131892
+      },
+      "13": {
+        "equiv": "GS 13",
+        "low": 92572,
+        "high": 156835
+      },
+      "14": {
+        "equiv": "GS 14",
+        "low": 106295,
+        "high": 180083
+      },
+      "15": {
+        "equiv": "GS 15",
+        "low": 112678,
+        "high": 194491
+      },
+      "16": {
+        "equiv": "GS 14-15",
+        "low": 121391,
+        "high": 206158
+      },
+      "17": {
+        "equiv": "GS 15",
+        "low": 128675,
+        "high": 222650
+      }
+    }
+  },
+  "CG": {
+    "name": "Federal Deposit Insurance Corporation",
+    "url": "https://www.fdic.gov/about/careers/benefits/compensation/",
+    "special": true,
+    "ranges": {
+      "01": {
+        "equiv": "GS 1",
+        "low": 23099,
+        "high": 35994
+      },
+      "02": {
+        "equiv": "GS 2",
+        "low": 25973,
+        "high": 40711
+      },
+      "03": {
+        "equiv": "GS 3",
+        "low": 28340,
+        "high": 45888
+      },
+      "04": {
+        "equiv": "GS 4",
+        "low": 31813,
+        "high": 51508
+      },
+      "05": {
+        "equiv": "GS 5",
+        "low": 35593,
+        "high": 57633
+      },
+      "06": {
+        "equiv": "GS 6",
+        "low": 39677,
+        "high": 64237
+      },
+      "07": {
+        "equiv": "GS 7",
+        "low": 44090,
+        "high": 71385
+      },
+      "08": {
+        "equiv": "GS 8",
+        "low": 48828,
+        "high": 79061
+      },
+      "09": {
+        "equiv": "GS 9",
+        "low": 53931,
+        "high": 87316
+      },
+      "10": {
+        "equiv": "GS 10",
+        "low": 59389,
+        "high": 96160
+      },
+      "11": {
+        "equiv": "GS 11",
+        "low": 65251,
+        "high": 105643
+      },
+      "12": {
+        "equiv": "GS 12",
+        "low": 78209,
+        "high": 126628
+      },
+      "13": {
+        "equiv": "GS 13",
+        "low": 93001,
+        "high": 150574
+      },
+      "14": {
+        "equiv": "GS 14",
+        "low": 109899,
+        "high": 177933
+      },
+      "15": {
+        "equiv": "GS 15",
+        "low": 129270,
+        "high": 209296
+      }
+    }
+  },
+  "CM": {
+    "name": "Federal Deposit Insurance Corporation",
+    "url": "https://www.fdic.gov/about/careers/benefits/compensation/",
+    "special": true,
+    "ranges": {
+      "00": {
+        "equiv": "SES",
+        "low": 120000,
+        "high": 230000
+      }
+    }
+  },
+  "CN": {
+    "name": "Consumer Financial Protection Bureau",
+    "url": "https://www.consumerfinance.gov/about-us/careers/pay-scales/",
+    "special": true,
+    "ranges": {
+      "10": {
+        "equiv": "GS 1-2",
+        "low": 23480,
+        "high": 35732
+      },
+      "21": {
+        "equiv": "GS 3",
+        "low": 28421,
+        "high": 38331
+      },
+      "22": {
+        "equiv": "GS 4",
+        "low": 31184,
+        "high": 45941
+      },
+      "31": {
+        "equiv": "GS 5",
+        "low": 49829,
+        "high": 70920
+      },
+      "32": {
+        "equiv": "GS 6",
+        "low": 54065,
+        "high": 76949
+      },
+      "33": {
+        "equiv": "GS 7",
+        "low": 58661,
+        "high": 83489
+      },
+      "41": {
+        "equiv": "GS 8",
+        "low": 57595,
+        "high": 81972
+      },
+      "42": {
+        "equiv": "GS 9",
+        "low": 62490,
+        "high": 88940
+      },
+      "43": {
+        "equiv": "GS 10",
+        "low": 67802,
+        "high": 96500
+      },
+      "30": {
+        "equiv": "GS 5-7",
+        "low": 57522,
+        "high": 83489
+      },
+      "40": {
+        "equiv": "GS 8-10",
+        "low": 65287,
+        "high": 95501
+      },
+      "51": {
+        "equiv": "GS 11",
+        "low": 80029,
+        "high": 113903
+      },
+      "52": {
+        "equiv": "GS 12",
+        "low": 90833,
+        "high": 129280
+      },
+      "53": {
+        "equiv": "GS 13",
+        "low": 103096,
+        "high": 146732
+      },
+      "60": {
+        "equiv": "GS 14",
+        "low": 113113,
+        "high": 192061
+      },
+      "61": {
+        "equiv": "GS 14",
+        "low": 121031,
+        "high": 205505
+      },
+      "71": {
+        "equiv": "GS 15",
+        "low": 127277,
+        "high": 216112
+      },
+      "72": {
+        "equiv": "GS 15",
+        "low": 136186,
+        "high": 231240
+      },
+      "81": {
+        "equiv": "SES",
+        "low": 148494,
+        "high": 218101
+      },
+      "82": {
+        "equiv": "SES",
+        "low": 171697,
+        "high": 229702
+      },
+      "90": {
+        "equiv": "SES",
+        "low": 187078,
+        "high": 259500
+      }
+    }
+  },
+  "CU": {
+    "name": "National Credit Union Administration",
+    "url": "https://ncua.gov/about/careers/pay-benefits",
+    "special": true,
+    "ranges": {
+      "1": {
+        "equiv": "GS 1",
+        "low": 22352,
+        "high": 35092
+      },
+      "2": {
+        "equiv": "GS 2",
+        "low": 24521,
+        "high": 38498
+      },
+      "3": {
+        "equiv": "GS 3",
+        "low": 26990,
+        "high": 42375
+      },
+      "4": {
+        "equiv": "GS 4",
+        "low": 29637,
+        "high": 46530
+      },
+      "5": {
+        "equiv": "GS 5",
+        "low": 32622,
+        "high": 51216
+      },
+      "6": {
+        "equiv": "GS 6",
+        "low": 36251,
+        "high": 56914
+      },
+      "7": {
+        "equiv": "GS 7",
+        "low": 40231,
+        "high": 63163
+      },
+      "8": {
+        "equiv": "GS 8",
+        "low": 44685,
+        "high": 70156
+      },
+      "9": {
+        "equiv": "GS 9",
+        "low": 49658,
+        "high": 77963
+      },
+      "10": {
+        "equiv": "GS 10",
+        "low": 55140,
+        "high": 86570
+      },
+      "11": {
+        "equiv": "GS 11",
+        "low": 63552,
+        "high": 99777
+      },
+      "12": {
+        "equiv": "GS 12",
+        "low": 73477,
+        "high": 115359
+      },
+      "13": {
+        "equiv": "GS 13",
+        "low": 84882,
+        "high": 133265
+      },
+      "14": {
+        "equiv": "GS 14",
+        "low": 97934,
+        "high": 153756
+      },
+      "15": {
+        "equiv": "GS 15",
+        "low": 113168,
+        "high": 177673
+      }
+    }
+  },
+  "CT": {
+    "name": "Commodity Futures Trading Commission",
+    "url": "https://www.cftc.gov/careers/salary.htm",
+    "special": true,
+    "ranges": {
+      "1": {
+        "equiv": "GS 1",
+        "low": 24790,
+        "high": 34948
+      },
+      "2": {
+        "equiv": "GS 2",
+        "low": 27869,
+        "high": 39629
+      },
+      "3": {
+        "equiv": "GS 3",
+        "low": 30409,
+        "high": 44666
+      },
+      "4": {
+        "equiv": "GS 4",
+        "low": 34135,
+        "high": 50134
+      },
+      "5": {
+        "equiv": "GS 5",
+        "low": 38194,
+        "high": 56090
+      },
+      "6": {
+        "equiv": "GS 6",
+        "low": 42573,
+        "high": 62530
+      },
+      "7": {
+        "equiv": "GS 7",
+        "low": 47310,
+        "high": 69493
+      },
+      "8": {
+        "equiv": "GS 8",
+        "low": 52394,
+        "high": 76957
+      },
+      "9": {
+        "equiv": "GS 9",
+        "low": 57871,
+        "high": 85003
+      },
+      "10": {
+        "equiv": "GS 10",
+        "low": 63731,
+        "high": 93611
+      },
+      "11": {
+        "equiv": "GS 11",
+        "low": 70019,
+        "high": 102854
+      },
+      "12": {
+        "equiv": "GS 12",
+        "low": 83921,
+        "high": 123265
+      },
+      "13": {
+        "equiv": "GS 13",
+        "low": 99795,
+        "high": 146586
+      },
+      "14": {
+        "equiv": "GS 14",
+        "low": 117927,
+        "high": 173222
+      },
+      "15": {
+        "equiv": "GS 15",
+        "low": 138719,
+        "high": 203750
+      },
+      "16": {
+        "equiv": "SES",
+        "low": 160521,
+        "high": 235739
+      },
+      "17": {
+        "equiv": "SES",
+        "low": 185693,
+        "high": 261400
+      },
+      "18": {
+        "equiv": "SES",
+        "low": 214846,
+        "high": 261400
+      }
+    }
+  }
+}
